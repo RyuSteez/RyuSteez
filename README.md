@@ -1,8 +1,8 @@
 👋 Hi, I’m @RyuSteez
 
-👀 I’m interested in matrix, coding, and digital art.
+👀 I’m interested in the matrix, coding, and martial art.
 
-🌱 I’m currently learning networking & coding using Unity and improving my skills in.
+🌱 I’m currently learning networking & coding using Unity and improving my skills.
 
 
 <!---
