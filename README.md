@@ -29,7 +29,7 @@ def brainstorm_solutions(key_factors):
         if factor == "Communication":
             solutions.append("Schedule regular communication sessions")
         if factor == "Trust":
-            solutions.append("Have open and honest conversations")
+            solutions.append("Be 100% with yourselfs")
         # Additional solution based on the existential perspective
         if "Existential perspective" in factor:
             solutions.append("Focus on personal growth and fulfillment rather than external validation")
