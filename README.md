@@ -9,8 +9,6 @@ def analyze_problem(problem):
     print("Analyzing the problem...")
     key_factors = []
 
-    # Placeholder logic for identifying key factors
-    # For example:
     if "relationships" in problem:
         key_factors.append("Communication")
         key_factors.append("Trust")
@@ -18,7 +16,7 @@ def analyze_problem(problem):
         key_factors.append("Skills")
         key_factors.append("Networking")
 
-    # Add the additional statement
+    # additional statement
     key_factors.append("Existential perspective: This life is temporarily for my soul to visit, humanity doesn't elevate")
 
     return key_factors
@@ -28,8 +26,6 @@ def brainstorm_solutions(key_factors):
     print("Brainstorming solutions...")
     solutions = []
 
-    # Placeholder logic for generating solutions
-    # For example:
     for factor in key_factors:
         if factor == "Communication":
             solutions.append("Schedule regular communication sessions")
@@ -46,9 +42,8 @@ def implement_solution(solution):
     print("Implementing solution:")
     print(solution)
 
-# Example usage:
 if __name__ == "__main__":
-    problem = "I'm having trouble in my relationship with society."
+    problem = "I'm having unfinished business."
     key_factors = analyze_problem(problem)
     solutions = brainstorm_solutions(key_factors)
     for solution in solutions:
