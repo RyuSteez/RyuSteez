@@ -29,7 +29,7 @@ def brainstorm_solutions(key_factors):
         if factor == "Communication":
             solutions.append("Schedule regular communication sessions")
         if factor == "Trust":
-            solutions.append("Be 100% with yourselfs")
+            solutions.append("Be 100% inner self")
         # Additional solution based on the existential perspective
         if "Existential perspective" in factor:
             solutions.append("Focus on personal growth and fulfillment rather than external validation")
@@ -52,6 +52,6 @@ if __name__ == "__main__":
 
 
 <!---
-RyuSteez/RyuSteez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+RyuSteez/SteezBytes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
