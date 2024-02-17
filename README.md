@@ -28,7 +28,7 @@ def brainstorm_solutions(key_factors):
 
     for factor in key_factors:
         if factor == "Communication":
-            solutions.append("Schedule regular communication sessions")
+            solutions.append("Schedule smoking session")
         if factor == "Trust":
             solutions.append("Be 100% true to yourself")
         # Additional solution based on the existential perspective
