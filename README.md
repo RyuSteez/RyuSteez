@@ -6,9 +6,7 @@ def analyze_problem(problem):
     print("Analyzing the problem...")
     key_factors = []
 
-    # Placeholder logic for identifying key factors
-    # You would replace this with your specific problem-solving approach
-    # For example:
+    #  example:
     if "relationship" in problem:
         key_factors.append("Communication")
         key_factors.append("Trust")
@@ -26,9 +24,7 @@ def brainstorm_solutions(key_factors):
     print("Brainstorming solutions...")
     solutions = []
 
-    # Placeholder logic for generating solutions
-    # You would replace this with your specific problem-solving approach
-    # For example:
+    # example:
     for factor in key_factors:
         if factor == "Communication":
             solutions.append("Schedule regular communication sessions")
