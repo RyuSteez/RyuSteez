@@ -1,4 +1,5 @@
 👋 Hi, I’m Ryu
+👀 I’m interested in coding, fucking the system, gateway the matrix and martial arts.
 
 def analyze_problem(problem):
     # Analyze the problem and identify key factors
