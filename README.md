@@ -49,6 +49,9 @@ if __name__ == "__main__":
     for solution in solutions:
         implement_solution(solution)
 
+        Sold souls makes this world is a business over capitalised profit ran by corporations. People rather be succesful over currencies than true to their environmen.. 404?
+        #Revolutionary!
+
 
 
 <!---
