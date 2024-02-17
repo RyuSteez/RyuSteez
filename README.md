@@ -22,10 +22,8 @@ def analyze_problem(problem):
 def brainstorm_solutions(key_factors):
     # Brainstorm potential solutions based on key factors
     print("Brainstorming solutions...")
-    solutions = [
+    solutions = [01110000 01110010 01101111 01100011 01100101 01100101 01100100
     
-    01110000 01110010 01101111 01100011 01100101 01100101 01100100 00100000 01100101 01101100 01100101 01110110 01100001 01110100 01101001 01101110 01100111 00100000 01100100 01101001 01101101 01100101 01101110 01110011 01101001 01101111 01101110 01100001 01101100 00100000 01110000 01100101 01110010 01110011 01110010 01100101 01101001 01100011 01110100 01101001 01110110 01100101 01110011
-
     ]
 
     # example:
@@ -52,9 +50,6 @@ if __name__ == "__main__":
     solutions = brainstorm_solutions(key_factors)
     for solution in solutions:
         implement_solution(solution)
-
-        Sold souls makes this world is a business over capitalised profit ran by corporations. People rather be succesful over currencies than true to their environmen.. 404?
-        #Revolutionary!
 
 
 
